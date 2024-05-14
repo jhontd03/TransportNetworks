@@ -35,7 +35,7 @@ Instale [python](https://www.python.org/downloads/) y [vscode](https://code.visu
 Clone el presente repositorio cree un entorno virtual, instale las librerias y ejecute el notebook con vscode.
 
 ```
-conda create -n TestEnv python=3.9.6 
+conda create -n TestEnv python=3.9.16 
 activate TestEnv
 python -m pip install --upgrade pip
 pip install -r  sinfo-requirements.txt
